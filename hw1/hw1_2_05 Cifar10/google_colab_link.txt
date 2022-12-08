@@ -1,0 +1,2 @@
+training process:
+https://colab.research.google.com/drive/1lXuKASl12oqpurddhB4cBIcuyaeRgJEF#scrollTo=gfqvr_zIhRBL
